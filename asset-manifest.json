@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tuscany/static/css/main.5a58f8c6.css",
+    "main.js": "/tuscany/static/js/main.cf3ca8f5.js",
+    "static/media/widelec.png": "/tuscany/static/media/widelec.fb90eea6565c45f91aca.png",
+    "static/media/sideFood3.jpg": "/tuscany/static/media/sideFood3.71dc80418887c044c390.jpg",
+    "static/media/toscanyImage2.jpg": "/tuscany/static/media/toscanyImage2.94ad144b5d5a9b6d8e69.jpg",
+    "static/media/sideFood4.jpg": "/tuscany/static/media/sideFood4.1279dd374dd10ad685f1.jpg",
+    "static/media/vegetables1.png": "/tuscany/static/media/vegetables1.433befcc4776dca29c84.png",
+    "static/media/sideFood1.jpg": "/tuscany/static/media/sideFood1.0f2aeb5cc9b99cf36d05.jpg",
+    "static/media/sideFood2.jpg": "/tuscany/static/media/sideFood2.9caf1033d7f039750203.jpg",
+    "static/media/fork2.png": "/tuscany/static/media/fork2.610b6e854a32d69067b2.png",
+    "static/media/food4.jpg": "/tuscany/static/media/food4.e8499176858699630c47.jpg",
+    "static/media/food2.jpg": "/tuscany/static/media/food2.c987f98f40559e5846e4.jpg",
+    "static/media/food1.jpg": "/tuscany/static/media/food1.ff9cdbdec68e9853f149.jpg",
+    "static/media/food3.jpg": "/tuscany/static/media/food3.527fb15df3b6b6c13841.jpg",
+    "index.html": "/tuscany/index.html",
+    "main.5a58f8c6.css.map": "/tuscany/static/css/main.5a58f8c6.css.map",
+    "main.cf3ca8f5.js.map": "/tuscany/static/js/main.cf3ca8f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a58f8c6.css",
+    "static/js/main.cf3ca8f5.js"
+  ]
+}
