@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tuscany/static/css/main.d71d916b.css",
-    "main.js": "/tuscany/static/js/main.beaad6c0.js",
+    "main.css": "/tuscany/static/css/main.cfb9c75f.css",
+    "main.js": "/tuscany/static/js/main.b929fd97.js",
     "static/media/widelec.png": "/tuscany/static/media/widelec.fb90eea6565c45f91aca.png",
     "static/media/sideFood3.jpg": "/tuscany/static/media/sideFood3.71dc80418887c044c390.jpg",
     "static/media/toscanyImage2.jpg": "/tuscany/static/media/toscanyImage2.94ad144b5d5a9b6d8e69.jpg",
@@ -15,11 +15,11 @@
     "static/media/food1.jpg": "/tuscany/static/media/food1.ff9cdbdec68e9853f149.jpg",
     "static/media/food3.jpg": "/tuscany/static/media/food3.527fb15df3b6b6c13841.jpg",
     "index.html": "/tuscany/index.html",
-    "main.d71d916b.css.map": "/tuscany/static/css/main.d71d916b.css.map",
-    "main.beaad6c0.js.map": "/tuscany/static/js/main.beaad6c0.js.map"
+    "main.cfb9c75f.css.map": "/tuscany/static/css/main.cfb9c75f.css.map",
+    "main.b929fd97.js.map": "/tuscany/static/js/main.b929fd97.js.map"
   },
   "entrypoints": [
-    "static/css/main.d71d916b.css",
-    "static/js/main.beaad6c0.js"
+    "static/css/main.cfb9c75f.css",
+    "static/js/main.b929fd97.js"
   ]
 }
